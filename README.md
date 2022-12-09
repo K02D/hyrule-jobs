@@ -1,4 +1,5 @@
 # hyrule-jobs
+Project to learn basics of Vue.js. Followed this tutorial: https://youtu.be/JfI5PISLr9w
 
 ## Project setup
 ```
